@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @geo-chalk or George Chalkiopoulos
+- 👋 Hi, I’m @geo-chalk 
 - 🎓 MEng Electrical and Computer Engineering, NTUA
 - 🎓 MSc Data Science Student, AUEB
 - 👀 I’m interested in Data Science 
-- 💞️ I’m looking to collaborate on ML/DL projects
 - 📫 How to reach me: geo.chalkiopoulos [at] gmail.com and https://www.linkedin.com/in/georgechalkiopoulos/
 
 <!---
