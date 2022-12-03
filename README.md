@@ -3,7 +3,7 @@
 - 🎓 MSc Data Science Student, AUEB
 - 👀 I’m interested in Data Science 
 - 💞️ I’m looking to collaborate on ML/DL projects
-- 📫 How to reach me: geo.chalkiopoulos@gmail.com and https://www.linkedin.com/in/georgechalkiopoulos/
+- 📫 How to reach me: geo.chalkiopoulos [at] gmail.com and https://www.linkedin.com/in/georgechalkiopoulos/
 
 <!---
 geo-chalk/geo-chalk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
